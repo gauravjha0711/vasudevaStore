@@ -1,1 +1,1 @@
-E-commerce website built with React & MongoDB. Features: product browsing, shopping cart, user accounts, secure checkout. React for dynamic UI, MongoDB for data management. User-friendly and efficient.
+
