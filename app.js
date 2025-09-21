@@ -9,12 +9,9 @@ main().then(() => {
 })
 
 
-
 async function main() {
     await mongoose.connect(MONGO_URL);
 }
-
-
 
 
 const userModel = require("./src/Components/userModel");
