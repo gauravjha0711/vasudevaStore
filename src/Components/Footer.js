@@ -8,7 +8,7 @@ export default function Footer() {
         <p>instagram <i className="fa-brands fa-instagram"></i></p>
       </div>
       <div>
-        &copy; SAI STORE PRIVATE LIMITED
+        &copy; vashudevstore
       </div>
       <div>
         <a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ">Privacy </a>
